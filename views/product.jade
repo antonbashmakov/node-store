@@ -1,0 +1,8 @@
+extends layout
+
+block content
+  h1. #{product.name}
+  div.product-container
+    img(src='/images/#{product.name}.jpg').avatar
+    span #{product.name} : #{product.price} $
+    

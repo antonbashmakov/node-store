@@ -1,0 +1,24 @@
+[
+{
+	name : 'Milk',
+	price  : 20,
+	producer : 'Arla'
+},
+{
+	name : 'Chees',
+	price  : 30,
+	producer : 'Arla'
+},{
+	name : 'Meet',
+	price  : 100,
+	producer : 'Arla'
+},{
+	name : 'Honney',
+	price  : 40,
+	producer : 'BigBee'
+},{
+	name : 'Coockies',
+	price  : 25,
+	producer : 'the Sweet One'
+}
+]
