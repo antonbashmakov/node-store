@@ -5,4 +5,9 @@ block content
   div.product-container
     img(src='/images/#{product.name}.jpg').avatar
     span #{product.name} : #{product.price} $
+
+    iframe(id='relativio', style='border-style: none;width: 100%; height: 400px;overflow:hidden;')
+    script(src='http://relativio.com:3000/javascripts/bootstrap.js')
+
+
     
